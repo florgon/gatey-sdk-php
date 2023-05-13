@@ -1,6 +1,6 @@
 # Florgon Gatey SDK for PHP (Official).
 
-## This is the official PHP SDK for [Florgon Gatey](https://gatey.florgon.space)
+## This is the official PHP SDK for [Florgon Gatey](https://gatey.florgon.com)
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Work in progress.
 
 ## Documentation.
 
-[Gatey Documentation](https://florgon.space/dev/gatey)
+[Gatey Documentation](https://gatey.florgon.com/dev/api)
 
 ## License
 
