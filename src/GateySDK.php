@@ -1,17 +1,14 @@
 <?php
-
-/**
- * Gatey SDK for PHP.
- */
-
-namespace GateySDK\GateySDK;
-
-<?php
 /*
     Gatey SDK for PHP
 
     Made for Florgon, by @MrCheatEugene on github
 */
+
+namespace GateySDK\GateySDK;
+use Exception;
+use Throwable; 
+use stdClass;
 
 class GateyAuthException extends Exception
 {
@@ -35,7 +32,7 @@ class GateyAPIException extends Exception
     }
 }
 
-class GateyClient 
+class GateyClient
 {
     protected $id;
     protected $client_secret;
